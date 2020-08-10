@@ -1,0 +1,58 @@
+﻿  HuMomentsExtractor.cpp
+C:\Users\javie\source\repos\Proyecto_Final\Proyecto_Final\HuMomentsExtractor.cpp(217,83): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\javie\source\repos\Proyecto_Final\Proyecto_Final\HuMomentsExtractor.cpp(217,69): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\javie\source\repos\Proyecto_Final\Proyecto_Final\HuMomentsExtractor.cpp(221,86): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\javie\source\repos\Proyecto_Final\Proyecto_Final\HuMomentsExtractor.cpp(221,71): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\javie\source\repos\Proyecto_Final\Proyecto_Final\HuMomentsExtractor.cpp(225,89): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\javie\source\repos\Proyecto_Final\Proyecto_Final\HuMomentsExtractor.cpp(225,74): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Principal.cpp
+  Generating Code...
+  Proyecto_Final.vcxproj -> C:\Users\javie\source\repos\Proyecto_Final\x64\Debug\Proyecto_Final.exe
